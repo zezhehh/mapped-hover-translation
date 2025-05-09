@@ -19,3 +19,4 @@ Mapped Hover Translate is a modern browser extension that lets you instantly tra
 **How it works:**  
 Just hover over a word or select text on any webpage. A translation popup will appear next to your cursor or selection, showing the translation in your chosen language. Customize your experience in the extension’s settings popup.
 
+<img width="640" alt="Xnapper-2025-05-08-22 17 37" src="https://github.com/user-attachments/assets/988bf8f6-360a-4b80-b59a-a91a7c7ebc47" />
